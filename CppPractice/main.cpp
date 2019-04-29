@@ -13,7 +13,7 @@ private:
 
 Game::Game()
 	:HP(100)
-	, MP(50)
+	,MP(50)
 {
 
 }
